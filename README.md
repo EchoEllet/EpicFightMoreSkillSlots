@@ -5,6 +5,8 @@ A simple mod that adds additional skill slots to the [Epic Fight](https://modrin
 * 2 extra passive slots (5 total)
 * 1 extra identity slot (2 total)
 
+<img src="./readme_images/extra_passive_slots.png" alt="Extra passive skills" width="1200">
+
 This mod is particularly useful for modpacks that include mods such as  
 [Weapons of Miracles](https://modrinth.com/mod/weapons-of-miracles), [Dodge Parry Reward](https://www.curseforge.com/minecraft/mc-mods/epic-fight-dodge-parry-reward),
 and [Nightfall](https://www.curseforge.com/minecraft/mc-mods/epicfight-nightfall).
@@ -35,7 +37,7 @@ rather than to the Epic Fight team.
 ## Disclaimer
 
 > [!WARNING]
-> **DragonFist Legacy is NOT AN OFFICIAL MINECRAFT PRODUCT.  
+> **This mod is NOT AN OFFICIAL MINECRAFT PRODUCT.  
 > It is NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.**
 
 > [!NOTE]
