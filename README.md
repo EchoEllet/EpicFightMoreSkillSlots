@@ -1,25 +1,42 @@
+# Epic Fight: More Skill Slots
 
-Installation information
-=======
+A simple mod that adds additional skill slots to the [Epic Fight](https://modrinth.com/mod/epic-fight) mod:
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+* 2 extra passive slots (5 total)
+* 1 extra identity slot (2 total)
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+This mod is particularly useful for modpacks that include mods such as  
+[Weapons of Miracles](https://modrinth.com/mod/weapons-of-miracles), [Dodge Parry Reward](https://www.curseforge.com/minecraft/mc-mods/epic-fight-dodge-parry-reward),
+and [Nightfall](https://www.curseforge.com/minecraft/mc-mods/epicfight-nightfall).
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+These mods add many passive skills. Additionally, if you are using mods that make survival more challenging, without
+these extra slots you will be limited to 3 passive skills, which can restrict your build options.
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+## Existing Game Saves
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+You can install this mod and load existing worlds without losing your current skills.  
+However, if you remove the mod and then load an existing world, the extra skill slots will be removed.
+
+## Compatibility
+
+Tested with [Epic Fight: Skill Tree](https://modrinth.com/mod/epic-fight-skill-tree) and works as expected.
+
+## Limitations
+
+Currently, this mod does not provide a configuration option to adjust the extra skill slots.  
+However, adding this feature should be straightforward.
+
+## Bug reports
+
+This isn't an official Epic Fight addon, so any issues should be reported
+to [this mod issue tracker](https://github.com/EchoEllet/EpicFightMoreSkillSlots/issues)
+rather than to the Epic Fight team.
+
+## Disclaimer
+
+> [!WARNING]
+> **DragonFist Legacy is NOT AN OFFICIAL MINECRAFT PRODUCT.  
+> It is NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.**
+
+> [!NOTE]
+> **This mod is not affiliated with the [Epic Fight Team](https://github.com/Epic-Fight).**
