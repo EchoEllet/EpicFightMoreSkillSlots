@@ -25,8 +25,7 @@ Tested with [Epic Fight: Skill Tree](https://modrinth.com/mod/epic-fight-skill-t
 
 ## Limitations
 
-Currently, this mod does not provide a configuration option to adjust the extra skill slots.  
-However, adding this feature should be straightforward.
+Currently, this mod does not provide a configuration option to adjust the extra skill slots.
 
 ## Bug reports
 
