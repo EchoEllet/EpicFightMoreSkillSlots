@@ -10,25 +10,25 @@ version = "${mod_version}"
 displayName = "${mod_name}"
 authors = "${mod_authors}"
 description = '''${mod_description}'''
-logoFile="logo.png"
+logoFile = "logo.png"
 
 [[dependencies.${ mod_id }]]
-modId = "neoforge"
-type = "required"
-versionRange = "[${neo_version},)"
+modId = "forge"
+mandatory = true
+versionRange = "${forge_version_range}"
 ordering = "NONE"
 side = "BOTH"
 
 [[dependencies.${ mod_id }]]
 modId = "minecraft"
-type = "required"
+mandatory = true
 versionRange = "${minecraft_version_range}"
 ordering = "NONE"
 side = "BOTH"
 
 [[dependencies.${ mod_id }]]
 modId = "epicfight"
-type = "required"
-versionRange = "[21.12.4,22.0.0)"
+mandatory = true
+versionRange = "[20.12.12,21.0.0)"
 ordering = "NONE"
 side = "BOTH"
